@@ -1,86 +1,93 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/main/github-banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sachin Talekar</h1>
-<h3 align="center">Lead Backend Engineer | Distributed Systems Architect</h3>
+<h3 align="center">Lead Backend Engineer | Distributed Systems | System Design</h3>
+<h1 align="center">Hi 👋, I'm Sachin Talekar</h1>
+<h3 align="center">Lead Backend Engineer | Distributed Systems | System Design</h3>
 
 <p align="center">
-A seasoned backend engineering leader with over 10 years of experience designing scalable architectures, building high-performance microservices, and leading high-impact engineering teams. Passionate about solving complex problems and delivering production-ready solutions.
+🚀 Backend Engineering Leader with 10+ years experience designing scalable backend systems and distributed architectures.
+</p>
+
+<p align="center">
+<a href="https://github.com/iamSachinDev">
+<img src="https://komarev.com/ghpvc/?username=iamSachinDev&label=Profile%20views&color=0e75b6&style=flat" />
+</a>
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 👨‍💻 **Role**: Lead Software Engineer (Level 2)
-- 🏢 **Currently**: Driving engineering excellence at **Lodha Group**
-- 👨‍👩‍👦 **Leadership**: Mentoring and leading a talented backend team of **25+ engineers**
-- 🧠 **Specialties**: Scalable Backend Architecture, Microservices, Event-Driven Systems
-- ☁️ **Infrastructure**: Deep expertise in AWS cloud services and DevOps pipelines
-
----
-
-## 🔥 Featured Products
-
-### [NestJS Production Boilerplate](https://sachinster6.gumroad.com/l/7-prod-ready-nestjs-boilerplate)
-<a href="https://sachinster6.gumroad.com/l/7-prod-ready-nestjs-boilerplate">
-  <img src="https://img.shields.io/badge/Get_Full_Code_for_$2-00c853?style=for-the-badge&logo=gumroad" alt="Buy Now on Gumroad" />
-</a>
-
-The ultimate production-ready starter kit. Includes global error handling, zero ORM overhead, fully-typed Zod edge validation, pagination, soft-deletes, multi-stage Docker configs, and an automated PR security pipeline. **Ship your next backend in hours, not weeks.**
+- 🔭 Lead Software Engineer (L2) @ **Lodha Group**
+- ☁️ Experienced with **AWS Cloud Infrastructure**
+- 🧠 Specialized in **Distributed Systems & Scalable Backend Architecture**
+- 🚀 Passionate about **System Design & High Scale Systems**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/NodeJS-Backend-green)
-![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue)
-![Python](https://img.shields.io/badge/Python-Backend-yellow)
-![NestJS](https://img.shields.io/badge/NestJS-Framework-red)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
-![Redis](https://img.shields.io/badge/Redis-Cache-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Docker](https://img.shields.io/badge/Docker-Container-blue)
-![CI/CD](https://img.shields.io/badge/CI/CD-DevOps-purple)
-
-### Architecture
-- Microservices
-- Event Driven Systems
-- Distributed Systems
-- System Design
-- High Performance APIs
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-grey?style=for-the-badge)
 
 ---
 
-## 📊 GitHub Stats
+# 🏗️ Architecture & Leadership
 
-![Sachin's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iamSachinDev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=tokyonight)
-
----
-
-## 🧠 Engineering Leadership
-
-- Leading **backend team of 25+ engineers**
-- Driving **architecture design and system scalability**
-- Conducting **code reviews and design reviews**
-- Building **high-performance distributed systems**
-- Mentoring engineers and improving engineering culture
+- **Engineering Leadership:** Leading backend team of **25+ engineers**
+- **System Design:** Microservices, Event-Driven Architecture, High Performance APIs
+- **Scalability:** Designing high-scale distributed systems and driving architectural decisions
+- **Engineering Excellence:** Mentoring engineers and improving engineering culture
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-**LinkedIn**<br>
-https://linkedin.com/in/sachin-talekar-9628a267
+### 🔧 NestJS Production Boilerplate
+Production-ready NestJS backend architecture following scalable system design principles.
+- **Features:** Modular architecture, JWT auth, Redis queues, PostgreSQL integration
+- **Repo:** [nestjs-production-boilerplate-public](https://github.com/iamSachinDev/nestjs-production-boilerplate-public)
 
-**GitHub**<br>
-https://github.com/iamSachinDev
+### ⚙️ Distributed Job Queue
+Scalable background processing system with worker pools, job scheduling, and dead letter queue support.
+
+### 💳 Saga Payment System
+Implementation of distributed transactions using the **Saga Pattern** for eventual consistency.
+
+### 📩 Distributed Notification System
+High-scale notification service supporting Email, SMS, and Push notifications.
 
 ---
 
-⭐ *Always interested in building scalable systems and solving complex engineering problems.*
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+[LinkedIn](https://linkedin.com/in/sachin-talekar-9628a267) | [GitHub](https://github.com/iamSachinDev) | [Portfolio](https://github.com/iamSachinDev)
+
+---
+
+⭐ Always interested in building scalable backend systems and solving complex engineering challenges.
