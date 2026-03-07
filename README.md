@@ -30,10 +30,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-### Databases
+### Databases & Search
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -46,7 +47,7 @@
 
 - **Engineering Leadership:** Leading backend team of **25+ engineers**
 - **System Design:** Microservices, Event-Driven Architecture, High Performance APIs
-- **Scalability:** Designing high-scale distributed systems and driving architectural decisions
+- **Search & Scalability:** Designing high-scale distributed systems and optimizing search with **Elasticsearch**
 - **Engineering Excellence:** Mentoring engineers and improving engineering culture
 
 ---
@@ -72,10 +73,10 @@ High-scale notification service supporting Email, SMS, and Push notifications.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSachinDev&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=nord" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSachinDev&theme=nord" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=nord" />
 </p>
 
 ---
