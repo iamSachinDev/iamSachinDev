@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sachin Talekar</h1>
-<h3 align="center">Lead Backend Engineer | Distributed Systems | System Design</h3>
+<h3 align="center">Lead Backend Engineer | Distributed Systems Architect</h3>
 
 <p align="center">
-Backend engineering leader with 10+ years of experience designing scalable systems, building high-performance microservices, and leading engineering teams.
+A seasoned backend engineering leader with over 10 years of experience designing scalable architectures, building high-performance microservices, and leading high-impact engineering teams. Passionate about solving complex problems and delivering production-ready solutions.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Lead Software Engineer (Level 2)
-- 🏢 Currently at **Lodha Group**
-- 👨‍👩‍👦 Leading **25+ backend engineers**
-- 🧠 Specialized in **scalable backend architecture**
-- ☁️ Experienced with **AWS cloud infrastructure**
-- ⚡ Passionate about **system design and distributed systems**
+- 👨‍💻 **Role**: Lead Software Engineer (Level 2)
+- 🏢 **Currently**: Driving engineering excellence at **Lodha Group**
+- 👨‍👩‍👦 **Leadership**: Mentoring and leading a talented backend team of **25+ engineers**
+- 🧠 **Specialties**: Scalable Backend Architecture, Microservices, Event-Driven Systems
+- ☁️ **Infrastructure**: Deep expertise in AWS cloud services and DevOps pipelines
 
 ---
 
@@ -56,27 +55,11 @@ The ultimate production-ready starter kit. Includes global error handling, zero 
 
 ---
 
-## 📂 Featured Projects (Coming Soon)
-
-### Microservices Architecture Template
-Production-ready microservices setup using Node.js, Redis, PostgreSQL and Docker.
-
-### Distributed Job Queue
-High-performance background job processing system with retries and dead letter queues.
-
-### Event Driven Order System
-Implementation of event-driven architecture using asynchronous messaging.
-
-### Secure Password Manager
-Encrypted vault system for secure password storage.
-
----
-
 ## 📊 GitHub Stats
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=tokyonight)
+![Sachin's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iamSachinDev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=tokyonight)
 
 ---
 
@@ -97,9 +80,6 @@ https://linkedin.com/in/sachin-talekar-9628a267
 
 **GitHub**<br>
 https://github.com/iamSachinDev
-
-**Portfolio Website**<br>
-Coming Soon 🚀
 
 ---
 
