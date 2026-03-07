@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/main/github-banner.png" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Sachin Talekar</h1>
-<h3 align="center">Lead Backend Engineer | Distributed Systems | System Design</h3>
 <h1 align="center">Hi 👋, I'm Sachin Talekar</h1>
 <h3 align="center">Lead Backend Engineer | Distributed Systems | System Design</h3>
 
