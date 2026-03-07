@@ -72,8 +72,10 @@ High-scale notification service supporting Email, SMS, and Push notifications.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSachinDev&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
