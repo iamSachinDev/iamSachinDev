@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Sachin+Talekar;Full-Stack+Developer+%7C+Builder+%7C+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Sachin+Talekar;Full-Stack+Developer+%7C+AI+Engineer+%7C+Builder)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:sachin.talekar08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -18,7 +18,7 @@
 
 ```yaml
 name: Sachin Talekar
-role: Full-Stack Developer
+role: Full-Stack Developer | AI Engineer
 location: India
 currently_building: Prompt Engine — a template-first AI prompt builder
 interests:
@@ -95,17 +95,6 @@ motto: "Ship fast, learn faster."
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iamSachinDev&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamSachinDev&theme=github-compact&hide_border=true&area=true" width="100%" />
-  </picture>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=iamSachinDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=iamSachinDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
   </picture>
 </div>
 
