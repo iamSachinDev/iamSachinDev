@@ -68,12 +68,23 @@ motto: "Ship fast, learn faster."
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  </picture>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSachinDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=iamSachinDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
+    <img src="https://streak-stats.demolab.com?user=iamSachinDev&theme=github-dark-blue&hide_border=true" />
+  </picture>
 </div>
 
 ---
@@ -81,7 +92,10 @@ motto: "Ship fast, learn faster."
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamSachinDev&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=iamSachinDev&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamSachinDev&theme=github-compact&hide_border=true&area=true" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -89,7 +103,10 @@ motto: "Ship fast, learn faster."
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamSachinDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=iamSachinDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=iamSachinDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+  </picture>
 </div>
 
 ---
@@ -98,18 +115,6 @@ motto: "Ship fast, learn faster."
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/output/github-snake-dark.svg" />
-  </picture>
-</div>
 
 ---
 
