@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- Dynamic typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Sachin+Talekar;Full-Stack+Developer+%7C+AI+Engineer+%7C+Builder)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Sachin%20Talekar&fontSize=40&fontAlignY=50&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Full-Stack+Developer;AI+Engineer;Builder&colors=58A6FF,7C3AED,22C55E,06B6D4,EC4899" />
+</p>
 
 <p>
   <a href="mailto:sachin.talekar08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
