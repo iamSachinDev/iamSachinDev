@@ -1,0 +1,33 @@
+name: Update Recent Activity
+
+on:
+  push:
+    branches: ["main", "master"]
+  pull_request:
+    types: [opened, closed]
+  issues:
+    types: [opened, closed]
+  watch:
+    types: [started]
+  fork:
+  release:
+    types: [published]
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update activity section
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "⚡ Update recent activity"
+          MAX_LINES: 5
