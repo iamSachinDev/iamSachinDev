@@ -19,6 +19,7 @@
 ```yaml
 name: Sachin Talekar
 role: Full-Stack Developer | AI Engineer
+experience: 10+ years
 location: India
 currently_building: Prompt Engine — a template-first AI prompt builder
 interests:
@@ -27,6 +28,16 @@ interests:
   - Clean, scalable architecture
 motto: "Ship fast, learn faster."
 ```
+
+---
+
+## 💼 Professional Journey
+
+- **10+ years** shipping production-grade web applications and AI-powered products
+- Architecting end-to-end systems — from React frontends to Node.js/Python backends with MongoDB and cloud deployments
+- Building **Prompt Engine**, an open-source SaaS that turns templates into polished AI prompts through a guided flow
+- Integrating LLMs (Claude, OpenAI) into real-world products with prompt engineering and agent workflows
+- Active open-source contributor — believing in building in public and giving back to the community
 
 ---
 
