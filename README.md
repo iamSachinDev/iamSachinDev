@@ -1,90 +1,122 @@
-<h1 align="center">Hi 👋, I'm Sachin Talekar</h1>
-<h3 align="center">Lead Backend Engineer | Distributed Systems | System Design</h3>
+<div align="center">
 
-<p align="center">
-🚀 Backend Engineering Leader with 10+ years experience designing scalable backend systems and distributed architectures.
+<!-- Dynamic typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Sachin+Talekar;Full-Stack+Developer+%7C+Builder+%7C+Creator)](https://git.io/typing-svg)
+
+<p>
+  <a href="mailto:sachin.talekar08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/iamSachinDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/iamSachinDev">
-<img src="https://komarev.com/ghpvc/?username=iamSachinDev&label=Profile%20views&color=0e75b6&style=flat" />
-</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=iamSachinDev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Lead Software Engineer (L2) @ **Lodha Group**
-- ☁️ Experienced with **AWS Cloud Infrastructure**
-- 🧠 Specialized in **Distributed Systems & Scalable Backend Architecture**
-- 🚀 Passionate about **System Design & High Scale Systems**
+```yaml
+name: Sachin Talekar
+role: Full-Stack Developer
+location: India
+currently_building: Prompt Engine — a template-first AI prompt builder
+interests:
+  - Building SaaS products
+  - AI/ML integrations
+  - Clean, scalable architecture
+motto: "Ship fast, learn faster."
+```
 
 ---
 
-# 🛠 Tech Stack
+## ⚡ Tech Stack
 
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases & Search
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-grey?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</div>
 
 ---
 
-# 🏗️ Architecture & Leadership
+## 📊 GitHub Stats
 
-- **Engineering Leadership:** Leading backend team of **25+ engineers**
-- **System Design:** Microservices, Event-Driven Architecture, High Performance APIs
-- **Search & Scalability:** Designing high-scale distributed systems and optimizing search with **Elasticsearch**
-- **Engineering Excellence:** Mentoring engineers and improving engineering culture
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" />
+</div>
 
----
-
-# 🚀 Featured Projects
-
-### 🔧 NestJS Production Boilerplate
-Production-ready NestJS backend architecture following scalable system design principles.
-- **Features:** Modular architecture, JWT auth, Redis queues, PostgreSQL integration
-- **Repo:** [nestjs-production-boilerplate-public](https://github.com/iamSachinDev/nestjs-production-boilerplate-public)
-
-### ⚙️ Distributed Job Queue
-Scalable background processing system with worker pools, job scheduling, and dead letter queue support.
-
-### 💳 Saga Payment System
-Implementation of distributed transactions using the **Saga Pattern** for eventual consistency.
-
-### 📩 Distributed Notification System
-High-scale notification service supporting Email, SMS, and Push notifications.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSachinDev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6E40&currStreakLabel=58A6FF" />
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamSachinDev&show_icons=true&theme=nord" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamSachinDev&theme=nord" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamSachinDev&layout=compact&theme=nord" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamSachinDev&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6E40&area=true&area_color=58A6FF" />
+</div>
 
 ---
 
-# 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-[LinkedIn](https://linkedin.com/in/sachin-talekar-9628a267) | [GitHub](https://github.com/iamSachinDev) | [Portfolio](https://github.com/iamSachinDev)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamSachinDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
 
 ---
 
-⭐ Always interested in building scalable backend systems and solving complex engineering challenges.
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/iamSachinDev/iamSachinDev/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
