@@ -47,7 +47,7 @@
 <h2 align="center">Career Path</h2>
 
 <p align="center">
-  <img src="./assets/career-flow.svg" alt="Career path: Reliance Jio to HDFC Life to Fitternity to Lodha Group to AI focus" width="880" />
+  <img src="./career-flow.svg" alt="Career path: Reliance Jio to HDFC Life to Fitternity to Lodha Group to AI focus" width="880" />
 </p>
 
 <!-- ===================== EXPERIENCE ===================== -->
